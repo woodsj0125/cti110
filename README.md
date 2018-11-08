@@ -1,5 +1,5 @@
 # cti110
 CTI 110 Repository
-CTI 110 - 2B01
-Javonte woods
-10/18
+Created for P2LAB
+Woods
+11/8
